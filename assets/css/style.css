@@ -22,3 +22,9 @@ nav ul li a {
     text-decoration: none;
 }
 
+main {
+    max-width: 800px; /* Batas lebar konten agar tidak terlalu ke pinggir */
+    margin: 20px auto; /* Tengah secara horizontal */
+    padding: 20px;
+    text-align: justify; /* Rata kiri-kanan */
+}
